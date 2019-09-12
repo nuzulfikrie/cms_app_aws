@@ -50,3 +50,10 @@ The app skeleton uses a subset of [Foundation](http://foundation.zurb.com/) (v5)
 framework by default. You can, however, replace it with any other library or
 custom styles.
 # cms_app_aws
+
+
+```html
+<br>
+<p>testing html</p>
+<br>
+```
